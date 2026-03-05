@@ -136,7 +136,7 @@ git clone https://github.com/YOUR_USERNAME/walmart-powerbi-dashboard.git
 
 **[Omar Moussa]**
 - LinkedIn: [www.linkedin.com/in/omar-moussa-a9121523b]
-- GitHub: [[Your GitHub URL](https://github.com/omarmoussa724)]
+- GitHub: [(https://github.com/omarmoussa724)]
 
 ---
 
